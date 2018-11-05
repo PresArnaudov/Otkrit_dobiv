@@ -1,0 +1,30 @@
+body,
+header,
+h1,
+div {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #21618C;
+}
+
+header {
+    background: #27AE60;
+    height: 35%;
+    width: 100%;
+    text-align: center;
+}
+
+.title-header {
+    font-family: cursive;
+    font-size: 2.5em;
+}
+
+.work-step-box {
+    width: 30%;
+    font-family: cursive;
+    display: block;
+    vertical-align: middle;
+}
